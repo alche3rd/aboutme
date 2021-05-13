@@ -57,8 +57,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: ระบบงบประมาณกองทุนเพื่อส่งเสริมการอนุรักษ์พลังงาน ผ่านเครือข่ายอิเล็กทรอนิกส์
-        link: http://eefb.dede.go.th/eefb/ManualinstSL.html
+        title: Electronic ENCON Fund Budgetary - Department of Alternative Energy Development and Efficiency
+        link: http://eefb.dede.go.th/eefb
         # link_text: Project Website
         #additional_links:
         #  - title:  sproogen/modern-resume-theme
