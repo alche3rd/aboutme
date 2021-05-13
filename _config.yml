@@ -57,16 +57,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Electronic ENCON Fund Budgetary - Department of Alternative Energy Development and Efficiency
+        title: Electronic ENCON Fund Budgetary 
         link: http://eefb.dede.go.th/eefb
         # link_text: Project Website
-        #additional_links:
+        # additional_links:
         #  - title:  sproogen/modern-resume-theme
         #    icon: fab fa-github
         #    url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
         description: | # this will include new lines to allow paragraphs
 
@@ -119,13 +119,13 @@ content:
 
   - title: A Little More About Me
     layout: text
-    #content: | # this will include new lines to allow paragraphs
-    #  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-    #  - Gaming
-    #  - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+    # content: | # this will include new lines to allow paragraphs
+    #   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+    #   - Gaming
+    #   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-    #  Look at this cool image  
-    #  ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+    #   Look at this cool image  
+    #   ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - Gaming
