@@ -17,14 +17,14 @@ darkmode: false
 # Social links
 twitter_username: alche3rd
 github_username:  alche3rd
-# stackoverflow_username: "00000001"
+stackoverflow_username: "10943922"
 # dribbble_username: alche3rd
 # facebook_username: alche3rd
 # flickr_username: alche3rd
 instagram_username: alche3rd
 linkedin_username: alche3rd
 # xing_username: alche3rd
-pinterest_username: jekyll
+pinterest_username: alche3rd
 #youtube_username: alche3rd
 # googleplus_username: +alche3rd
 # orcid_username: 0000-0000-0000-0000
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Auttapon and I'm a junior programmer. I have experience making software and web apps.
+  Hi, my name's Beer and I'm a junior programmer. I have experience making software and web apps.
 
   I am most skilled in: <mark>C#</mark> and <mark>Eating Pizza</mark>
 
