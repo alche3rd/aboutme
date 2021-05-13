@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: ระบบงบประมาณกองทุนเพื่อส่งเสริมการอนุรักษ์พลังงาน ผ่านเครือข่ายอิเล็กทรอนิกส์
+        title: eefb
         link: http://eefb.dede.go.th/eefb/ManualinstSL.html
         # link_text: Project Website
         #additional_links:
