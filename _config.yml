@@ -100,7 +100,7 @@ content:
         quote: >
         description: | # this will include new lines to allow paragraphs
         
-        - layout: left
+      - layout: left
         title: Rod Suay Air and Sound
         # link: http://www.boringcompany.com/
         # link_text: boringcompany.com
