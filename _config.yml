@@ -93,10 +93,19 @@ content:
 
       - layout: left
         title: VL & M Apparel
-        # link: http://www.giantsystemdesign.com/
+        # link: http://www.boringcompany.com/
         # link_text: boringcompany.com
         sub_title: Network System Administrator
         caption: October 2014 - November 2016
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+        
+        - layout: left
+        title: Rod Suay Air and Sound
+        # link: http://www.boringcompany.com/
+        # link_text: boringcompany.com
+        sub_title: IT Support
+        caption: October 2010 - November 2014
         quote: >
         description: | # this will include new lines to allow paragraphs
 
