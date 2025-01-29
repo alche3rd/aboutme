@@ -85,7 +85,7 @@ content:
         caption: October 2020 - Present
         quote: >
         description: | # this will include new lines to allow paragraphs
-        Developed middleware between internal API and external API using Blazor, Bootstrap, and C#.NET.
+        Developed middleware between internal API and external API 
         Developed data visualizations using Google Data Studio for the marketing team to analyze and improve marketing strategies.
 
       - layout: left
