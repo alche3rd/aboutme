@@ -156,7 +156,6 @@ content:
     #   Look at this cool image  
     #   ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
     layout: list
-    title: >
     icon: fas fa-gamepad
     description: Gaming
 
