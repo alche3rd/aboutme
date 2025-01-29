@@ -140,7 +140,7 @@ content:
         description: | # this will include new lines to allow paragraphs
 
   - title: Programming Language # Title for the section
-    layout: Text # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content: |
       - C#
       - Type script
@@ -148,14 +148,14 @@ content:
       - CLIPS ( C Language Integrated Production System )
 
   - title: Framework # Title for the section
-    layout: Text # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content: |
       - .NET
       - Bootstrap
       - Silverlight
 
   - title: Other # Title for the section
-    layout: Text # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content: |
       - CSS
       - XAML
@@ -187,9 +187,6 @@ content:
       - AI
       - Mechanic
       
-      
-
-
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
