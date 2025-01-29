@@ -10,6 +10,7 @@ name: Auttapon Sae-na
 title: Programmer
 email: alche3rd@gmail.com
 website:  https://github.com/alche3rd
+location: Bangkok 10160, Thailand
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -49,7 +50,7 @@ additional_links:
 about_profile_image: images/profile.JPG
 about_content: | 
   Experienced Software Developer with a strong background in API integration and data visualization.
-  Specialized in developing middleware solutions using Blazor, Bootstrap, and C#.NET, and creating insightful data visualizations with Google Data Studio.
+  Specialized in developing middleware solutions using Blazor, Bootstrap, and C#.NET and creating insightful data visualizations with Google Data Studio.
   Proficient in resolving issues and optimizing software performance.
   Successfully reduced redundant reporting time for the marketing team, enhancing overall productivity.
   - Key Skills: .NET Developer, Coding Standard, Version Control, API Integration, Data Visualization, Front-end Frameworks.
@@ -139,6 +140,12 @@ content:
         quote: >
         description: | # this will include new lines to allow paragraphs
 
+  - title: Typeskills
+    layout: text
+    content: | 
+      - 31 words per minute (Thai)
+      - 33 words per minute (English)
+
   - title: A Little More About Me
     layout: text
     # content: | # this will include new lines to allow paragraphs
@@ -148,9 +155,8 @@ content:
 
     #   Look at this cool image  
     #   ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Gaming
+    content: | 
+  
 
 # Footer
 footer_show_references: true
