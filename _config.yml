@@ -61,6 +61,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: KTWDB
+        sub_title: Programmer
+        caption: 2021 - 2023
+        quote: >
+        description: |
+          KTWDB is an internal company website designed for data visualization. 
+          It provides insights into sales, revenue, and customer numbers in different areas. 
+          Users can view data over various time periods, compare growth rates, and export data for further use. 
+          This makes KTW Dboard an effective tool for analyzing and monitoring the company’s performance.
+      - layout: left
         title: Electronic ENCON Fund Budgetary 
         sub_title: Programmer
         caption: 2018 - 2020
@@ -76,8 +86,7 @@ content:
         quote: >
         description: |
           The Electronic ENCON Fund Budgetary is a web-based platform that provides budget management services for the Energy Conservation Fund under the Ministry of Energy. 
-          The platform is designed to streamline and enhance the efficiency of budget-related processes, ensuring transparency and accountability in the allocation and utilization of funds.
-        
+          The platform is designed to streamline and enhance the efficiency of budget-related processes, ensuring transparency and accountability in the allocation and utilization of funds.     
       - layout: left
         title: Automotive Analysis Program
         sub_title: Devoloper
