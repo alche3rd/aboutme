@@ -174,14 +174,17 @@ content:
           - Docker
           - Git
           - JIRA
+          - Google Data Studio
+          - Power BI
           - TortoiseSVN
           - Microsoft Office
           - ABBYY
           - Alfresco
           - VMWare
       - layout: left
-        title: Typing Skills
+        title: Additional Skills
         description: |
+          - Holds a personal car driver's license
           - 31 words per minute (Thai)
           - 33 words per minute (English)
 
