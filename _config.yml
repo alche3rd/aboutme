@@ -125,19 +125,43 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: 
         title: Bansomdejchaopraya Rajabhat University
         caption: 2006 - 2013
         sub_title: BSc Computer Science
         quote: >
         description: | # this will include new lines to allow paragraphs
 
-      - layout: left
+      - layout: 
         title: Taweethapisek School
         caption: 2003 - 2006
         sub_title: Science and Mathematics
         quote: >
         description: | # this will include new lines to allow paragraphs
+
+  - title: Programming Language # Title for the section
+    layout: Text # Type of content section (list/text)
+    content: |
+      - C#
+      - Type script
+      - Java script
+      - CLIPS ( C Language Integrated Production System )
+
+  - title: Framework # Title for the section
+    layout: Text # Type of content section (list/text)
+    content: |
+      - .NET
+      - Bootstrap
+      - Silverlight
+
+  - title: Other # Title for the section
+    layout: Text # Type of content section (list/text)
+    content: |
+      - CSS
+      - XAML
+      - JSON
+      - XML
+      - SQL 
 
   - title: Typeskills
     layout: text
