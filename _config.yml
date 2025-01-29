@@ -125,14 +125,14 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: mid
+      - layout: left
         title: Bansomdejchaopraya Rajabhat University
         caption: 2006 - 2013
         sub_title: BSc Computer Science
         quote: >
         description: | # this will include new lines to allow paragraphs
 
-      - layout: mid
+      - layout: left
         title: Taweethapisek School
         caption: 2003 - 2006
         sub_title: Science and Mathematics
