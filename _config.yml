@@ -76,13 +76,11 @@ content:
         
       - layout: top-middle
         title: Automotive Analysis Program
-        #description: Automotive Analysis Program
-        #details:
-        #title: Technologies
-        #description: |
-        #  - CLIPS (C Language Integrated Production System)
-        #  - VB.NET (GUI Development)
-        #  - PostgreSQL
+         - title: Technologies
+           description: |
+             - CLIPS (C Language Integrated Production System)
+             - C#
+             - PostgreSQL
         #title: Role
         #description: Developer
         #title: Project Overview
