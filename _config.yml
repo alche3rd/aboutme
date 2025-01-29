@@ -67,9 +67,9 @@ content:
         quote: >
         description: |
           KTWDB is an internal company website designed for data visualization. 
-          It provides insights into sales, revenue, and customer numbers in different areas. 
+          It provides insights into sales, revenue and customer numbers in different areas. 
           Users can view data over various time periods, compare growth rates, and export data for further use. 
-          This makes KTW Dboard an effective tool for analyzing and monitoring the company’s performance.
+          This makes KTWDB an effective tool for analyzing and monitoring the company’s performance.
       - layout: left
         title: Electronic ENCON Fund Budgetary 
         sub_title: Programmer
