@@ -60,7 +60,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: Electronic ENCON Fund Budgetary 
         link: http://eefb.dede.go.th/eefb
         # link_text: Project Website
@@ -74,28 +74,21 @@ content:
         quote: >
         description: |
         
-      - layout: top-middle
+      - layout: left
         title: Automotive Analysis Program
-        sub_title: Technologies
+        caption: 2013
         description: |
-          - CLIPS (C Language Integrated Production System)
-          - C#
-          - PostgreSQL
-        caption: Old school 
-        #title: Role
-        #description: Developer
-        #title: Project Overview
-        #description: |
-        #  - Design and Develop
-        #title: Responsibilities
-        #description: |
-        #  - Design Process and Coding
-        #  - Documenting
-        #  - Testing all modules
-        #title: Duration
-        #description: 3 months
-        #title: Team Size
-        #description: 1 person
+          Overview: The Automotive Analysis Program is a traditional-style assistant tool designed to help users diagnose and identify the root causes of automotive issues. 
+          The program interacts with users through a series of step-by-step questions to gather information and provide accurate analysis.
+          Key Features:
+          - Interactive Questioning: The program asks users sequential questions about their vehicle's symptoms and conditions. Each question is designed to narrow down potential causes and guide users towards the correct diagnosis.
+          - Intelligent Inference Engine: Utilizes the CLIPS (C Language Integrated Production System) to process user responses and infer the most likely issues based on the provided information.
+          - User-Friendly Interface: Developed using VB.NET to ensure an intuitive and straightforward user experience.
+          - Comprehensive Database Integration: Stores and retrieves data using PostgreSQL to support robust and efficient information management.
+          Technologies:
+          - CLIPS for developing the inference engine.
+          - VB.NET for the graphical user interface (GUI) development.
+          - PostgreSQL for database managemen
 
   - title: Experience
     layout: list
