@@ -155,10 +155,11 @@ content:
 
     #   Look at this cool image  
     #   ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-    content: | 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-  
+    content: Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      layout: list
+      title: >
+      icon: fa-gamepad
+      description: Gaming
 
 # Footer
 footer_show_references: true
