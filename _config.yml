@@ -73,7 +73,7 @@ content:
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
         description: |
-    content:
+        
       - layout: top-middle
       title: Automotive Analysis Program
       description: Automotive Analysis Program
