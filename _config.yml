@@ -47,7 +47,7 @@ additional_links:
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.JPG
-about_content: > 
+about_content: | 
 Experienced Software Developer with a strong background in API integration and data visualization.
 Specialized in developing middleware solutions using Blazor, Bootstrap, and C#.NET, and creating insightful data visualizations with Google Data Studio.
 Proficient in resolving issues and optimizing software performance.
@@ -81,7 +81,7 @@ content:
         sub_title: Programmer
         caption: October 2020 - Present
         quote: >
-        description: > 
+        description: | 
          - Developed middleware between internal API and external API using Blazor, Bootstrap, and C# .NET. 
          - Developed data visualizations using Google Data Studio for the marketing team to analyze and improve marketing strategies.
         
