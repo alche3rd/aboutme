@@ -155,9 +155,10 @@ content:
 
     #   Look at this cool image  
     #   ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-    layout: list
-    icon: fas fa-gamepad
-    description: Gaming
+    layout: text
+    content: 
+     icon: fas fa-gamepad
+     description: Gaming
 
 # Footer
 footer_show_references: true
