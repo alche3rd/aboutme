@@ -49,12 +49,12 @@ additional_links:
 about_profile_image: images/profile.JPG
 about_content:  # this will include new lines to allow paragraphs
   Experienced Software Developer with a strong background in API 
-  integration and data visualization. |Specialized in developing
+  integration and data visualization. Specialized in developing
   middleware solutions using Blazor, Bootstrap, and C#.NET, and
   creating insightful data visualizations with Google Data Studio.
-  |Proficient in resolving issues and optimizing software performance.
+  Proficient in resolving issues and optimizing software performance.
   Successfully reduced redundant reporting time for the marketing
-  team, enhancing overall productivity.
+  team, enhancing overall productivity. |
 
 content:
   - title: Projects # Title for the section
@@ -84,11 +84,11 @@ content:
         sub_title: Programmer
         caption: October 2020 - Present
         quote: >
-        description: # this will include new lines to allow paragraphs 
-        Developed middleware between internal API and external API using Blazor,
-        Bootstrap, and C#.NET.|
-        Developed data visualizations using Google Data Studio for the marketing
-        team to analyze and improve marketing strategies.
+        description: | # this will include new lines to allow paragraphs 
+        #Developed middleware between internal API and external API using Blazor,
+        #Bootstrap, and C#.NET.|
+        #Developed data visualizations using Google Data Studio for the marketing
+        #team to analyze and improve marketing strategies.
 
       - layout: left
         title: Giant System Design
@@ -97,13 +97,13 @@ content:
         sub_title: Programmer
         caption: October 2018 - August 2020
         quote: >
-        description: # this will include new lines to allow paragraphs
-        Responsible for the maintenance and upgrade (MA) of the ILS System for the
-        Royal Thai Navy’s Landing Platform Dock (LPD) - Singapore Technologies
-        Marine (ST Marine).|
-        Responsible for the maintenance and upgrade (MA) of the Electronic ENCON
-        Fund Budgetary (EEFB) system for the Ministry of Energy, Department of
-        Alternative Energy Development and Efficiency (DEDE).
+        description: | # this will include new lines to allow paragraphs
+        #Responsible for the maintenance and upgrade (MA) of the ILS System for the
+        #Royal Thai Navy’s Landing Platform Dock (LPD) - Singapore Technologies
+        #Marine (ST Marine).|
+        #Responsible for the maintenance and upgrade (MA) of the Electronic ENCON
+        #Fund Budgetary (EEFB) system for the Ministry of Energy, Department of
+        #Alternative Energy Development and Efficiency (DEDE).
 
       - layout: left
         title: VL & M Apparel
@@ -112,9 +112,9 @@ content:
         sub_title: Network System Administrator
         caption: October 2014 - November 2016
         quote: >
-        description: # this will include new lines to allow paragraphs
-        Responsible for the maintenance of the local network and Windows servers.|
-        Troubleshot software, hardware, and databases.
+        description: | # this will include new lines to allow paragraphs
+        #Responsible for the maintenance of the local network and Windows servers.|
+        #Troubleshot software, hardware, and databases.
         
       - layout: left
         title: Rod Suay Air and Sound
@@ -123,11 +123,11 @@ content:
         sub_title: IT Support
         caption: October 2010 - November 2014
         quote: >
-        description: # this will include new lines to allow paragraphs
-        Responsible for the maintenance of the local network, supporting the
-        specialized car tuning and diagnostic program.|
-        Assisting users with tuning and diagnostic issues, and troubleshooting software
-        and hardware.
+        description: | # this will include new lines to allow paragraphs
+        #Responsible for the maintenance of the local network, supporting the
+        #specialized car tuning and diagnostic program.|
+        #Assisting users with tuning and diagnostic issues, and troubleshooting software
+        #and hardware.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
