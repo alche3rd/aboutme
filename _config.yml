@@ -125,14 +125,14 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: Bansomdejchaopraya Rajabhat University
         caption: 2006 - 2013
         sub_title: BSc Computer Science
         quote: >
         description: | # this will include new lines to allow paragraphs
 
-      - layout: left
+      - layout: top-middle
         title: Taweethapisek School
         caption: 2003 - 2006
         sub_title: Science and Mathematics
@@ -140,35 +140,50 @@ content:
         description: | # this will include new lines to allow paragraphs
 
   - title: Skills # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Programming Language
-        description: |
-          - C#
-          - Type script
-          - Java script
-          - CLIPS ( C Language Integrated Production System )
-      - layout: left
-        title: Framework # Title for the section
-        description: |
-          - .NET
-          - Bootstrap
-          - Silverlight
-      - layout: left
-        title: Other # Title for the section
-        description: |
-          - CSS
-          - XAML
-          - JSON
-          - XML
-          - SQL 
-
-  - title: Typeskills
-    layout: text
-    content: | 
-      - 31 words per minute (Thai)
-      - 33 words per minute (English)
+  layout: list # Type of content section (list/text)
+  content:
+    - layout: left
+      title: Technical Skills
+      description: |
+        - C#
+        - TypeScript
+        - JavaScript
+        - CLIPS (C Language Integrated Production System)
+        - .NET
+        - Bootstrap
+        - Silverlight
+        - CSS
+        - XAML
+        - JSON
+        - XML
+        - SQL
+    - layout: left
+      title: Database Management
+      description: |
+        - Microsoft SQL
+        - Oracle 10G
+        - MySQL
+        - PostgreSQL
+        - Microsoft Access
+        - MariaDB
+    - layout: left
+      title: Tools & Applications
+      description: |
+        - Microsoft Visual Studio
+        - Visual Studio Code
+        - Docker
+        - Git, GitHub
+        - JIRA
+        - TortoiseSVN
+        - Microsoft Office
+        - ABBYY
+        - Alfresco
+        - VMWare
+    - layout: left
+      title: Typing Skills
+      description: |
+        - 31 words per minute (Thai)
+        - 33 words per minute (English)
 
   - title: A Little More About Me
     #layout: text
