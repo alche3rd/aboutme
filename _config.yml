@@ -156,13 +156,16 @@ content:
     #   Look at this cool image  
     #   ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
     layout: text
-    content:
-    - icon: fas fa-gamepad
-      description: Gaming
-    - icon: fas fa-code
-      description: Coding
-    - icon: fas fa-book
-      description: Reading
+    content: |
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Gaming
+      - Music
+      - Manga & Anime
+      - AI
+      - Mechanic
+      
+      
+
 
 # Footer
 footer_show_references: true
