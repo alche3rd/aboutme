@@ -85,9 +85,9 @@ content:
         caption: October 2020 - Present
         quote: >
         description: | # this will include new lines to allow paragraphs 
-        -. Developed middleware between internal API and external API using Blazor,
+        Developed middleware between internal API and external API using Blazor,
         Bootstrap, and C#.NET.
-        -. Developed data visualizations using Google Data Studio for the marketing
+        Developed data visualizations using Google Data Studio for the marketing
         team to analyze and improve marketing strategies.
 
       - layout: left
@@ -98,10 +98,10 @@ content:
         caption: October 2018 - August 2020
         quote: >
         description: | # this will include new lines to allow paragraphs
-        -. Responsible for the maintenance and upgrade (MA) of the ILS System for the
+        Responsible for the maintenance and upgrade (MA) of the ILS System for the
         Royal Thai Navy’s Landing Platform Dock (LPD) - Singapore Technologies
         Marine (ST Marine).
-        -. Responsible for the maintenance and upgrade (MA) of the Electronic ENCON
+        Responsible for the maintenance and upgrade (MA) of the Electronic ENCON
         Fund Budgetary (EEFB) system for the Ministry of Energy, Department of
         Alternative Energy Development and Efficiency (DEDE).
 
@@ -113,8 +113,8 @@ content:
         caption: October 2014 - November 2016
         quote: >
         description: | # this will include new lines to allow paragraphs
-        -. Responsible for the maintenance of the local network and Windows servers.
-        -. Troubleshot software, hardware, and databases.
+        Responsible for the maintenance of the local network and Windows servers.
+        Troubleshot software, hardware, and databases.
         
       - layout: left
         title: Rod Suay Air and Sound
@@ -124,9 +124,9 @@ content:
         caption: October 2010 - November 2014
         quote: >
         description: | # this will include new lines to allow paragraphs
-        -. Responsible for the maintenance of the local network, supporting the
+        Responsible for the maintenance of the local network, supporting the
         specialized car tuning and diagnostic program.
-        -. Assisting users with tuning and diagnostic issues, and troubleshooting software
+        Assisting users with tuning and diagnostic issues, and troubleshooting software
         and hardware.
 
   - title: Education # Title for the section
