@@ -147,7 +147,7 @@ content:
       - 33 words per minute (English)
 
   - title: A Little More About Me
-    layout: text
+    #layout: text
     # content: | # this will include new lines to allow paragraphs
     #   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
     #   - Gaming
@@ -155,11 +155,10 @@ content:
 
     #   Look at this cool image  
     #   ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-    content:
-      layout: list
-      title: >
-      icon: fa-gamepad
-      description: Gaming
+    layout: list
+    title: >
+    icon: fas fa-gamepad
+    description: Gaming
 
 # Footer
 footer_show_references: true
