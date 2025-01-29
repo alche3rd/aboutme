@@ -72,15 +72,15 @@ content:
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-        description: | # this will include new lines to allow paragraphs
+        description: |
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Experience
+    layout: list
     content:
       - layout: left
         title: Krieng Thai Wattana
         link: https://www.ktw.co.th/
-        # link_text: boringcompany.com
+        # link_text: ktw.co.th
         sub_title: Programmer
         caption: 2020 - 2023
         quote: >
@@ -92,7 +92,7 @@ content:
       - layout: left
         title: Giant System Design
         link: http://www.giantsystemdesign.com/
-        # link_text: boringcompany.com
+        # link_text: giantsystemdesign.com
         sub_title: Programmer
         caption: 2018 - 2020
         quote: >
@@ -102,8 +102,6 @@ content:
 
       - layout: left
         title: VL & M Apparel
-        # link: http://www.boringcompany.com/
-        # link_text: boringcompany.com
         sub_title: Network System Administrator
         caption: 2014 - 2016
         quote: >
@@ -113,8 +111,6 @@ content:
         
       - layout: left
         title: Rod Suay Air and Sound
-        # link: http://www.boringcompany.com/
-        # link_text: boringcompany.com
         sub_title: IT Support
         caption: 2010 - 2014
         quote: >
@@ -122,25 +118,25 @@ content:
          - Responsible for the maintenance of the local network, supporting the specialized car tuning and diagnostic program.
          - Assisting users with tuning and diagnostic issues, and troubleshooting software and hardware.
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Education
+    layout: list
     content:
       - layout: top-middle
         title: Bansomdejchaopraya Rajabhat University
         caption: 2006 - 2013
         sub_title: BSc Computer Science
         quote: >
-        description: | # this will include new lines to allow paragraphs
+        description: |
 
       - layout: top-middle
         title: Taweethapisek School
         caption: 2003 - 2006
         sub_title: Science and Mathematics
         quote: >
-        description: | # this will include new lines to allow paragraphs
+        description: |
 
-  - title: Skills # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Skills
+    layout: list
     content:
       - layout: left
         title: Technical Skills
