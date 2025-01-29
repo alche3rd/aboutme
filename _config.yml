@@ -53,7 +53,7 @@ about_content: |
   Specialized in developing middleware solutions using Blazor, Bootstrap, and C#.NET and creating insightful data visualizations with Google Data Studio.
   Proficient in resolving issues and optimizing software performance.
   Successfully reduced redundant reporting time for the marketing team, enhancing overall productivity.
-  - Key Skills: .NET Developer, Coding Standard, Version Control, API Integration, Data Visualization, Front-end Frameworks.
+  - Key Skills: .NET Developer, Coding Standards, Version Control, API Integration, Data Visualization, Front-end Frameworks.
   - Future Goals: Continuously improve my skills.
   
 
@@ -83,7 +83,7 @@ content:
         link: https://www.ktw.co.th/
         # link_text: boringcompany.com
         sub_title: Programmer
-        caption: October 2020 - October 2023
+        caption: 2020 - 2023
         quote: >
         description: | 
          - Developed middleware between internal API and external API using Blazor, Bootstrap, and C# .NET. 
@@ -95,7 +95,7 @@ content:
         link: http://www.giantsystemdesign.com/
         # link_text: boringcompany.com
         sub_title: Programmer
-        caption: October 2018 - August 2020
+        caption: 2018 - 2020
         quote: >
         description: | 
          - Responsible for the maintenance and upgrade (MA) of the ILS System for the Royal Thai Navy’s Landing Platform Dock (LPD) - Singapore Technologies Marine (ST Marine).
@@ -106,7 +106,7 @@ content:
         # link: http://www.boringcompany.com/
         # link_text: boringcompany.com
         sub_title: Network System Administrator
-        caption: October 2014 - November 2016
+        caption: 2014 - 2016
         quote: >
         description: |
          - Responsible for the maintenance of the local network and Windows servers.
@@ -117,7 +117,7 @@ content:
         # link: http://www.boringcompany.com/
         # link_text: boringcompany.com
         sub_title: IT Support
-        caption: October 2010 - November 2014
+        caption: 2010 - 2014
         quote: >
         description: | 
          - Responsible for the maintenance of the local network, supporting the specialized car tuning and diagnostic program.
