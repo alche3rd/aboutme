@@ -83,7 +83,7 @@ content:
         link: https://www.ktw.co.th/
         # link_text: boringcompany.com
         sub_title: Programmer
-        caption: October 2020 - Present
+        caption: October 2020 - October 2023
         quote: >
         description: | 
          - Developed middleware between internal API and external API using Blazor, Bootstrap, and C# .NET. 
@@ -156,6 +156,8 @@ content:
     #   Look at this cool image  
     #   ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
     content: | 
+      Look at this cool image  
+      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
   
 
 # Footer
