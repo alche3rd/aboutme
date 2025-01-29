@@ -47,14 +47,15 @@ additional_links:
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.JPG
-about_content: | # this will include new lines to allow paragraphs
+about_content:  # this will include new lines to allow paragraphs
   Experienced Software Developer with a strong background in API 
-  integration and data visualization. Specialized in developing
+  integration and data visualization. 
+  Specialized in developing
   middleware solutions using Blazor, Bootstrap, and C#.NET, and
   creating insightful data visualizations with Google Data Studio.
   Proficient in resolving issues and optimizing software performance.
   Successfully reduced redundant reporting time for the marketing
-  team, enhancing overall productivity.
+  team, enhancing overall productivity. |
 
 content:
   - title: Projects # Title for the section
