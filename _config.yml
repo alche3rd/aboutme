@@ -76,11 +76,12 @@ content:
         
       - layout: top-middle
         title: Automotive Analysis Program
-         - title: Technologies
+        sub_title: Technologies
            description: |
              - CLIPS (C Language Integrated Production System)
              - C#
              - PostgreSQL
+        caption: Old school 
         #title: Role
         #description: Developer
         #title: Project Overview
