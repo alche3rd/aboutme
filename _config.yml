@@ -73,6 +73,30 @@ content:
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
         description: |
+    content:
+      - layout: top-middle
+      title: Automotive Analysis Program
+      description: Automotive Analysis Program
+      details:
+      - title: Technologies
+      description: |
+        - CLIPS (C Language Integrated Production System)
+        - VB.NET (GUI Development)
+        - PostgreSQL
+      - title: Role
+        description: Developer
+      - title: Project Overview
+        description: |
+          - Design and Develop
+      - title: Responsibilities
+        description: |
+          - Design Process and Coding
+          - Documenting
+          - Testing all modules
+      - title: Duration
+        description: 3 months
+      - title: Team Size
+        description: 1 person
 
   - title: Experience
     layout: list
